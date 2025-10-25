@@ -1,0 +1,12 @@
+{
+  "name": "hotelSystem",
+  "version": "1.0.0",
+  "description": "Sistema básico de administración de reservaciones (hotelSystem) - proyecto didáctico",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./src/test-runner.js || true"
+  },
+  "author": "",
+  "license": "MIT"
+}
